@@ -1,0 +1,2 @@
+extends SpringBoneSimulator3D
+class_name JiggleBone
