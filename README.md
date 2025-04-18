@@ -1,0 +1,4 @@
+- Simply copy the `addons/jiggle-bone` directory to your root directory 
+- Click on `Project` -> `Project Settings`
+- Select `Plugins` Tab
+- Check the `Enable` jiggle-bone Plugin
